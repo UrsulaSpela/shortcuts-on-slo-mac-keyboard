@@ -1,0 +1,201 @@
+{
+    "symbols": [
+        {
+            "shotrcut": "cmd + option + š",
+            "name": "opening curly bracket",
+            "symbol": "{"
+        },
+        {
+            "shotrcut": "cmd + option + đ",
+            "name": "closing curly bracket",
+            "symbol": "}"
+        },
+        {
+            "shotrcut": "option + š",
+            "name": "opening square bracket",
+            "symbol": "["
+        },
+        {
+            "shotrcut": "option + đ",
+            "name": "closing square bracket",
+            "symbol": "]"
+        },
+        {
+            "shotrcut": "option + shift + ž",
+            "name": "vertical line",
+            "symbol": "|"
+        },
+        {
+            "shotrcut": "option + <",
+            "name": "backtick",
+            "symbol": "`"
+        },
+        {
+            "shotrcut": "option + shift + < / option + n",
+            "name": "tilde",
+            "symbol": "~"
+        },
+        {
+            "shotrcut": "option + shift + 2",
+            "name": "afna",
+            "symbol": "@"
+        },
+        {
+            "shotrcut": "option + a",
+            "name": "angstrom",
+            "symbol": "å"
+        },
+        {
+            "shotrcut": "option + b",
+            "name": "integral",
+            "symbol": "∫"
+        },
+        {
+            "shotrcut": "option + c",
+            "name": "c-cedilla",
+            "symbol": "ç"
+        },
+        {
+            "shotrcut": "option + č",
+            "name": "horizontal ellipsis",
+            "symbol": "…"
+        },
+        {
+            "shotrcut": "option + d",
+            "name": "partial derivative",
+            "symbol": "∂"
+        },
+        {
+            "shotrcut": "option + e",
+            "name": "forward-leaning acute accent",
+            "symbol": "´"
+        },
+        {
+            "shotrcut": "option + f",
+            "name": "function / florin",
+            "symbol": "ƒ"
+        },
+        {
+            "shotrcut": "option + g",
+            "name": "copyright",
+            "symbol": "©"
+        },
+        {
+            "shotrcut": "option + h",
+            "name": "double quote",
+            "symbol": " \" "
+        },
+        {
+            "shotrcut": "option + i",
+            "name": "caret",
+            "symbol": "^"
+        },
+        {
+            "shotrcut": "option + j",
+            "name": "triangle / delta",
+            "symbol": "∆"
+        },
+        {
+            "shotrcut": "option + k",
+            "name": "inverted breve",
+            "symbol": " ̑"
+        },
+        {
+            "shotrcut": "option + l",
+            "name": "negation symbol",
+            "symbol": "¬"
+        },
+        {
+            "shotrcut": "option + m",
+            "name": "micro",
+            "symbol": "µ"
+        },
+        {
+            "shotrcut": "option + o",
+            "name": "zero",
+            "symbol": "ø"
+        },
+        {
+            "shotrcut": "option + p",
+            "name": "pi",
+            "symbol": "π"
+        },
+        {
+            "shotrcut": "option + r",
+            "name": "registered trademark",
+            "symbol": "®"
+        },
+        {
+            "shotrcut": "option + s",
+            "name": "scharfes S",
+            "symbol": "ß"
+        },
+        {
+            "shotrcut": "option + t",
+            "name": "dagger",
+            "symbol": "†"
+        },
+        {
+            "shotrcut": "option + u",
+            "name": "diaeresis",
+            "symbol": "¨"
+        },
+        {
+            "shotrcut": "option + v",
+            "name": "square root",
+            "symbol": "√"
+        },
+        {
+            "shotrcut": "option + z",
+            "name": "omega",
+            "symbol": "Ω"
+        },
+        {
+            "shotrcut": "option + w",
+            "name": "summation",
+            "symbol": "∑"
+        },
+        {
+            "shotrcut": "option + y",
+            "name": "em dash",
+            "symbol": "—"
+        },
+        {
+            "shotrcut": "option + x",
+            "name": "approximately equal",
+            "symbol": "≈"
+        }
+
+
+    ],
+    "otherShortcuts": [
+        {
+            "shortcut": "command + backspace",
+            "use": "delete a file",
+            "environment": "finder"
+        }
+    ],
+    "browserShortcuts": [
+        {
+            "shortcut": "command + t",
+            "use": "new tab",
+            "browser": "all"
+        },
+        {
+            "shortcut": "command + shift + r",
+            "use": "hard refresh",
+            "browser": "chrome"
+        },
+        {
+            "shortcut": "ctrl + reload",
+            "browser": "Chrome, Firefox, Edge",
+            "use": "hard refresh and clear cache"
+        },
+        {
+            "shortcut": "cmd + option + j",
+            "use": "open devtools",
+            "browser": "chrome"
+        }
+    ]
+
+}
