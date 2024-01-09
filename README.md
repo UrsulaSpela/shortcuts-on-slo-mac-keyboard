@@ -1,2 +1,1 @@
-# shortcuts-on-slo-mac-keyboard
-shortcuts-on-slo-mac-keyboard
+https://ursulaspela.github.io/shortcuts-on-slo-mac-keyboard/
