@@ -164,9 +164,37 @@
             "shotrcut": "option + x",
             "name": "approximately equal",
             "symbol": "≈"
+        },
+        {
+            "shotrcut": "option + shift + e",
+            "name": "Per mille",
+            "symbol": "‰"
+        },
+        {
+            "shotrcut": "option + shift + k",
+            "name": "apple symbol",
+            "symbol": ""
+        },
+        {
+            "shotrcut": "option + shift + n",
+            "name": "",
+            "symbol": "ˆ"
+        },
+        {
+            "shotrcut": "option + shift + p",
+            "name": "pi",
+            "symbol": "∏"
+        },
+        {
+            "shotrcut": "option + shift + r",
+            "name": "left double quotation mark",
+            "symbol": "“"
+        },
+        {
+            "shotrcut": "option + shift + t",
+            "name": "apostrophe",
+            "symbol": "‘"
         }
-
-
     ],
     "otherShortcuts": [
         {
