@@ -192,8 +192,18 @@
         },
         {
             "shotrcut": "option + shift + t",
-            "name": "apostrophe",
+            "name": "opening apostrophe",
             "symbol": "‘"
+        },
+        {
+            "shotrcut": "option + shift + u",
+            "name": "closing apostrophe",
+            "symbol": "’"
+        },
+        {
+            "shotrcut": "option + shift + z",
+            "name": "left-pointing double angle quotation mark",
+            "symbol": "«"
         }
     ],
     "otherShortcuts": [
