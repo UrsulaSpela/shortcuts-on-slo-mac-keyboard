@@ -233,6 +233,11 @@
             "shortcut": "cmd + option + j",
             "use": "open devtools",
             "browser": "chrome"
+        },
+        {
+            "shortcut": "cmd + shift + b",
+            "use": "open bookmarks",
+            "browser": "safari"
         }
     ]
 
