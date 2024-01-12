@@ -235,6 +235,11 @@
             "browser": "chrome"
         },
         {
+            "shortcut": "cmd + option + e",
+            "use": "hard refresh",
+            "browser": "safari"
+        },
+        {
             "shortcut": "cmd + shift + b",
             "use": "open bookmarks",
             "browser": "safari"
